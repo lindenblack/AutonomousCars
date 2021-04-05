@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Object test</folder>
+	<filename>1801.png</filename>
+	<path>C:\Users\Linden\Desktop\Object test\1801.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>82</ymin>
+			<xmax>295</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>77</ymin>
+			<xmax>209</xmax>
+			<ymax>95</ymax>
+		</bndbox>
+	</object>
+</annotation>

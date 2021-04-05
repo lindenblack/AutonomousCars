@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Object test</folder>
+	<filename>357.png</filename>
+	<path>C:\Users\Linden\Desktop\Object test\357.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>16</ymin>
+			<xmax>246</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>

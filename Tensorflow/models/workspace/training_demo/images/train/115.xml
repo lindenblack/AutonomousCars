@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Object test</folder>
+	<filename>115.png</filename>
+	<path>C:\Users\Linden\Desktop\Object test\115.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_traffic_light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>14</ymin>
+			<xmax>107</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>right_sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>37</ymin>
+			<xmax>258</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+</annotation>
