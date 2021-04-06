@@ -1,0 +1,32 @@
+item { 
+	name:'person'
+	id:1
+}
+item { 
+	name:'box'
+	id:2
+}
+item { 
+	name:'green_traffic_light'
+	id:3
+}
+item { 
+	name:'red_traffic_light'
+	id:4
+}
+item { 
+	name:'tree'
+	id:5
+}
+item { 
+	name:'right_sign'
+	id:6
+}
+item { 
+	name:'left_sign'
+	id:7
+}
+item { 
+	name:'red_traffiic_light'
+	id:8
+}
