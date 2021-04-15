@@ -19,9 +19,9 @@
 	- Using top 2/3rds of image descale =0.7 and huv, batch=128
 		○ loss: 0.1071 - accuracy: 0.9604
 #### Observations
-		- Huv outperforms rgb
-		- Not descaling performs worse
-		- 128 out performs 64 batch
-		- Using only top 2/3rd of image gives better loss
+	- Huv outperforms rgb
+	- Not descaling performs worse
+	- 128 out performs 64 batch
+	- Using only top 2/3rd of image gives better loss
 
 
