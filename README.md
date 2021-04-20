@@ -43,14 +43,14 @@
 #### Submissions
 
 ##### One
-Loss = 0.04006
-Speed = Using top 2/3rds of image descale =0.7 and huv, batch=32
-Angle = Normal Nvidia
+- Loss = 0.04006
+- Speed = Using top 2/3rds of image descale =0.7 and huv, batch=32
+- Angle = Normal Nvidia
 
 ##### Two
-Loss = 
-Speed = Using full image, descale = 0.4, huv, batch=32, hard coded red light detection
-Angle = Normal Nvidia
+- Loss = 
+- Speed = Using full image, descale = 0.4, huv, batch=32, hard coded red light detection
+- Angle = Normal Nvidia
 
 			
 			
