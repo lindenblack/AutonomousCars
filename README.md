@@ -18,10 +18,40 @@
 		○ loss: 0.1403 - accuracy: 0.9688
 	- Using top 2/3rds of image descale =0.7 and huv, batch=128
 		○ loss: 0.1071 - accuracy: 0.9604
+	- Using full of image descale =0.6 and RGB, batch=128
+		○ loss: 0.1144 - accuracy: 0.9552
+	- Using full of image descale =0.6 and RGB, batch=32
+		○ Ram problems
+	- Using full image descale = 0.5 and RGB batch = 128
+		○ loss: 0.1339 - accuracy: 0.9536
+	- Using full image descale = 0.5 and RGB batch = 32
+		○ loss: 0.1195 - accuracy: 0.9601
+	- Using full image descale = 0.5 and HUV batch = 32
+		○ -loss: 0.1502 - accuracy: 0.9580
+	- Using top 2/3rds of image descale =0.7 and huv, batch=32
+		○ loss: 0.1074 - accuracy: 0.9659
+	- Using full image, descale = 0.4 and huv, batch=32
+		○ loss: 0.0985 - accuracy: 0.9703
+
 #### Observations
 	- Huv outperforms rgb
 	- Not descaling performs worse
-	- 128 out performs 64 batch
-	- Using only top 2/3rd of image gives better loss
+	- 32 outperforms both 128 out performs 64 batch
+	- Using top 2/3rd is better
+	- Using augmentation to increase the size of the 0 speed data reduces the model accuracy!
 
+#### Submissions
+
+##### One
+Loss = 0.04006
+Speed = Using top 2/3rds of image descale =0.7 and huv, batch=32
+Angle = Normal Nvidia
+
+##### Two
+Loss = 
+Speed = Using full image, descale = 0.4, huv, batch=32, hard coded red light detection
+Angle = Normal Nvidia
+
+			
+			
 
