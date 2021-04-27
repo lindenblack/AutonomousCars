@@ -1,0 +1,7 @@
+person
+box
+green_traffic_light
+red_traffic_light
+tree
+right_sign
+left_sign
