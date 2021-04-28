@@ -1,0 +1,26 @@
+<annotation>
+	<folder>newimages</folder>
+	<filename>13591.png</filename>
+	<path>C:\Users\Linden\GitHub\AutonomousCars\Tensorflow\workspace\images\newimages\13591.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_traffic_light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>4</ymin>
+			<xmax>97</xmax>
+			<ymax>57</ymax>
+		</bndbox>
+	</object>
+</annotation>
